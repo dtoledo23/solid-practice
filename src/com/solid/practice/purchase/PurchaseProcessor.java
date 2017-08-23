@@ -1,11 +1,11 @@
-package com.toledo.purchase;
+package com.solid.practice.purchase;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.inject.Inject;
 
-import com.toledo.purchase.input.Input;
+import com.solid.practice.purchase.input.Input;
 
 public class PurchaseProcessor {
 	

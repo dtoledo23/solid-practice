@@ -1,14 +1,14 @@
-package com.toledo;
+package com.solid.practice;
 
 import com.google.inject.Binder;
 import com.google.inject.Module;
-import com.toledo.purchase.currency.CurrencyFormatter;
-import com.toledo.purchase.currency.DefaultCurrencyFormatter;
-import com.toledo.purchase.date.DateFormatter;
-import com.toledo.purchase.input.ConsoleInput;
-import com.toledo.purchase.input.Input;
-import com.toledo.purchase.output.ConsoleOutput;
-import com.toledo.purchase.output.Output;
+import com.solid.practice.purchase.currency.CurrencyFormatter;
+import com.solid.practice.purchase.currency.DefaultCurrencyFormatter;
+import com.solid.practice.purchase.date.DateFormatter;
+import com.solid.practice.purchase.input.ConsoleInput;
+import com.solid.practice.purchase.input.Input;
+import com.solid.practice.purchase.output.ConsoleOutput;
+import com.solid.practice.purchase.output.Output;
 
 public class ConsolePurchaseProcesorModule implements Module{
 

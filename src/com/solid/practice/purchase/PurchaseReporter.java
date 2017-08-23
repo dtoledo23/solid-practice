@@ -1,4 +1,4 @@
-package com.toledo.purchase;
+package com.solid.practice.purchase;
 
 import java.util.Collections;
 import java.util.Comparator;
@@ -9,9 +9,9 @@ import java.util.stream.Collectors;
 
 import javax.inject.Inject;
 
-import com.toledo.purchase.currency.CurrencyFormatter;
-import com.toledo.purchase.date.DateFormatter;
-import com.toledo.purchase.output.Output;
+import com.solid.practice.purchase.currency.CurrencyFormatter;
+import com.solid.practice.purchase.date.DateFormatter;
+import com.solid.practice.purchase.output.Output;
 
 public class PurchaseReporter {
 	

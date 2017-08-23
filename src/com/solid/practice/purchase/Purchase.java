@@ -1,4 +1,4 @@
-package com.toledo.purchase;
+package com.solid.practice.purchase;
 
 import java.util.Scanner;
 

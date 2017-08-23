@@ -1,14 +1,14 @@
-package com.toledo;
+package com.solid.practice;
 
 import com.google.inject.Binder;
 import com.google.inject.Module;
-import com.toledo.purchase.currency.CurrencyFormatter;
-import com.toledo.purchase.currency.YenCurrencyFormatter;
-import com.toledo.purchase.date.DateFormatter;
-import com.toledo.purchase.input.FileInput;
-import com.toledo.purchase.input.Input;
-import com.toledo.purchase.output.FileOutput;
-import com.toledo.purchase.output.Output;
+import com.solid.practice.purchase.currency.CurrencyFormatter;
+import com.solid.practice.purchase.currency.YenCurrencyFormatter;
+import com.solid.practice.purchase.date.DateFormatter;
+import com.solid.practice.purchase.input.FileInput;
+import com.solid.practice.purchase.input.Input;
+import com.solid.practice.purchase.output.FileOutput;
+import com.solid.practice.purchase.output.Output;
 
 public class FileBasedPurchaseProcesorModule implements Module {
 	

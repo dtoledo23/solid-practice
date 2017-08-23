@@ -1,7 +1,7 @@
-package com.toledo;
+package com.solid.practice;
 
 import com.google.inject.Guice;
-import com.toledo.purchase.PurchaseProcessor;
+import com.solid.practice.purchase.PurchaseProcessor;
 
 public class Main {
 	public static void main(String[] args) {

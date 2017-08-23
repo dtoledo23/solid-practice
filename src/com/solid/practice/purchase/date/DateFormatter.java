@@ -1,4 +1,4 @@
-package com.toledo.purchase.date;
+package com.solid.practice.purchase.date;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

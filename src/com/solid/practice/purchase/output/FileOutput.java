@@ -1,4 +1,4 @@
-package com.toledo.purchase.output;
+package com.solid.practice.purchase.output;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

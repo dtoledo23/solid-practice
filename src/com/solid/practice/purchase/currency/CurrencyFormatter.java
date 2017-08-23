@@ -1,4 +1,4 @@
-package com.toledo.purchase.currency;
+package com.solid.practice.purchase.currency;
 
 public interface CurrencyFormatter {
 	public String format(Double ammount);
