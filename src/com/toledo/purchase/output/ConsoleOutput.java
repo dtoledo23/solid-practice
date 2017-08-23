@@ -7,7 +7,4 @@ public class ConsoleOutput implements Output {
 		System.out.println(line);
 	}
 
-	@Override
-	public void close() {}
-
 }

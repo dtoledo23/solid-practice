@@ -18,7 +18,6 @@ public class ConsoleInput implements Input{
 	@Override
 	public void close() {
 		in.close();
-		
 	}
 
 }
